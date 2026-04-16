@@ -1,2 +1,3 @@
 This is another file (resolved merge conflict)git git clone https://github.com/your-username/IVC-github.git
 cd IVC-githubFeature branch change: Added this line.
+Temporary change for stash demo.
